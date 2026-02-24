@@ -1,51 +1,27 @@
-# Hi, I'm Mohammed 👋
+### hey, I'm Mohammed 👋
 
-**Tech Lead | AI & Scalable Systems | Netherlands**
+Backend engineer & tech lead based in the Netherlands. I spend most of my time building things with Django and TypeScript, thinking about system design, and lately getting deep into AI infrastructure.
 
----
+I studied at Delft, was a TA there for a bit, and I'm currently leading engineering at a startup. On the side I run my own thing called ShoTech Solutions.
 
-### About Me
-
-I'm a Tech Lead with a strong background in building AI-driven and scalable backend systems. I lead engineering teams, design cloud architecture, and ship products that solve real problems — from prototype to production.
-
-Currently building at **[Flowlined](https://flowlined.com)** and running **ShoTech Solutions**.
+I also wrote a short book called **Software Is Not Code** — it's about the parts of software that nobody talks about in tutorials.
 
 ---
 
-### 🛠 Tech Stack
+**what I mostly work with**
 
-**Backend & APIs**
-`Python` `Django` `Java` `REST` `GraphQL`
-
-**Cloud & Infrastructure**
-`AWS` `Docker` `CI/CD` `Microservices`
-
-**AI & Systems**
-`AI Architecture` `LLM Integration` `MCP` `Agent Systems`
+`Python` `Django` `TypeScript` `JavaScript` `REST APIs` `PostgreSQL` `AWS` `Docker`
 
 ---
 
-### 🚀 Currently Working On
+**things I'm building / exploring**
 
-- Contributing to **vLLM** — LLM inference engine used in production at scale
-- - AI tooling & developer infrastructure
-  - - Scalable SaaS platforms and automation systems
-   
-    - ---
+- [AIVault](https://github.com/mohshomis/AIVault) — MCP server that lets AI agents use your secrets without ever seeing the actual values. Built this because pasting API keys into chat always felt wrong.
+- contributing to open source AI infra — currently going deep on vLLM (LLM inference engine)
+- ShoTech Solutions — software consulting & custom builds
 
-    ### 📌 Featured Projects
+---
 
-    | Project | Description | Stack |
-    |---|---|---|
-    | [AIVault](https://github.com/mohshomis/AIVault) | Secure secret management for AI agents via MCP | TypeScript |
+**reach me**
 
-    ---
-
-    ### 📫 Connect
-
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Shomis-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohshomis)
-    [![GitHub](https://img.shields.io/badge/GitHub-mohshomis-black?style=flat&logo=github)](https://github.com/mohshomis)
-
-    ---
-
-    *Open to senior engineering roles at AI-first companies.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammed--shomis-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-shomis/)
