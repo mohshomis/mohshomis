@@ -1,10 +1,10 @@
 ### hey, I'm Mohammed 👋
 
-Backend engineer & tech lead based in the Netherlands. I spend most of my time building things with Django and TypeScript, thinking about system design, and lately getting deep into AI infrastructure.
+Backend engineer & tech lead based in the Netherlands. I like building things that actually work — clean APIs, solid architecture, systems that scale without drama.
 
-I studied at Delft, was a TA there for a bit, and I'm currently leading engineering at a startup. On the side I run my own thing called ShoTech Solutions.
+I studied at Delft, spent some time as a TA there, and I've been writing code seriously for years. I'm the kind of person who reads about distributed systems on weekends for fun and ends up with a side project by Monday.
 
-I also wrote a short book called **Software Is Not Code** — it's about the parts of software that nobody talks about in tutorials.
+I also wrote a short book called **Software Is Not Code** — it's about the parts of software nobody talks about in tutorials.
 
 ---
 
@@ -17,8 +17,8 @@ I also wrote a short book called **Software Is Not Code** — it's about the par
 **things I'm building / exploring**
 
 - [AIVault](https://github.com/mohshomis/AIVault) — MCP server that lets AI agents use your secrets without ever seeing the actual values. Built this because pasting API keys into chat always felt wrong.
-- contributing to open source AI infra — currently going deep on vLLM (LLM inference engine)
-- ShoTech Solutions — software consulting & custom builds
+- going deep on LLM inference and open source AI infrastructure — currently studying vLLM
+- various side projects that scratch my own itches
 
 ---
 
