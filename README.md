@@ -17,6 +17,7 @@ I also wrote a short book called **Software Is Not Code** — it's about the par
 **things I'm building / exploring**
 
 - [AIVault](https://github.com/mohshomis/AIVault) — MCP server that lets AI agents use your secrets without ever seeing the actual values. Built this because pasting API keys into chat always felt wrong.
+- [AgentOS](https://github.com/mohshomis/AgentOS) — the operating system for AI agents. 10 infrastructure primitives (audit trails, distributed locks, event buses, secret vaults, and more) behind one gateway. Zero glue code.
 - going deeper into AI infrastructure and LLM systems
 - various side projects that scratch my own itches
 
